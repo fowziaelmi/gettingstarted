@@ -1,0 +1,46 @@
+/* Give your page a fun background color */
+body {
+  background-color: #FF0000;
+
+
+
+
+
+}
+/* Make the header and footer a different color from the background */
+  header {background-color: #000000;}
+
+
+/* Align the h1 containing your name in the center of the header*/
+h1 {
+  color: black;
+  background-color: blue;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+/* Make your p tag a different color and italic */
+p1 {
+  font-family: verdana;
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+}
+footer {background-color: black;
+  padding: 5px;
+  color: white;
+  font-style: italic;
+  text-align: center;
+}
+/* Put a border around your image */
+.babyme {
+  width: 200px;
+  height: 300px;
+  outline-style: solid;
+  outline-color: blue;
+  vertical-align: middle;
+
+}
+/* Change the font-family of your list */
