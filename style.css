@@ -18,9 +18,7 @@ h1 {
   text-align: center;
 }
 
-p {
-  text-align: justify;
-}
+
 /* Make your p tag a different color and italic */
 p1 {
   font-family: verdana;
@@ -44,3 +42,7 @@ footer {background-color: black;
 
 }
 /* Change the font-family of your list */
+p {
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+}
